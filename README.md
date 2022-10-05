@@ -1,9 +1,9 @@
 # Login-Appplication
 Made by: ***[Mohamed Ahmed](https://github.com/3ab2wy1911) -[Youssef Ahmed](https://github.com/youseffahmedd) - [Yara Salah](https://github.com/yarasalah448)*** 
 ## Idea of the Program
-* It's a simple program which simulates the login process like in other applictions and sites but in a simple way.
+* It's a simple program that simulates the login process like in other applications and sites but in a simple way.
 * The program allows you to :
-  * Register new member.
+  * Register a new member.
   * Login to your account.
   * Change the old password into a new one.
 * As I said, the program is so simple and it's just a simulation of the login process.
